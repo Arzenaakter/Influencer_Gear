@@ -244,7 +244,7 @@ footer {
 }
 
 .footer-container {
-    width: 280px;
+    width: 310px;
     height: 150px;
     display: flex;
     flex-direction: column;
@@ -264,4 +264,9 @@ footer {
     color: #D9DBE1;
     font-size: 16px;
     font-weight: 400;
+}
+.footer-icons i{
+   color: #fff;
+  padding: 0 5px;
+   
 }
